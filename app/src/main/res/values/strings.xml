@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SolucionTaller3</string>
+    <string name="txtCodigo">Código del estudiante</string>
+    <string name="txtNombre">Nombre estudiante</string>
+    <string name="txtNota">Nota #1</string>
+    <string name="txtNota2">Nota #2</string>
+    <string name="txtNota3">Nota #3</string>
+    <string name="txtNota4">Nota #4</string>
+    <string name="txtCantidad">Ingrese cantidad</string>
+    <string name="BotonRegistrar">Registrar producto</string>
+    <string name="BotonBuscar">Buscar producto</string>
+    <string name="BotonEliminar">Eliminar producto</string>
+    <string name="BotonModificar">Modificar producto</string>
+
+</resources>
